@@ -15,7 +15,7 @@ Link to team website: http://csc174.org/assignment05/atlantis/
 
 ## Domain: Three UR Seniors (2 CS minor and 1 business minor)
 
-####ontology
+#### ontology
 
 - each person has an picture
 - each person's picture is related to their hobbies
@@ -26,14 +26,14 @@ Link to team website: http://csc174.org/assignment05/atlantis/
 - each person has a section about their hobbies
 - each person has both a major and a minor
 
-####Taxonomy
+#### Taxonomy
 
  - people in reversed alphabetical order (Z-A)
  - Academics 
  - Jobs
  - Hobbies
 
-####Choreogrphy
+#### Choreogrphy
 
  - Index page with an introduction to each person and an aside that shows everyone's picture and major/minor summary
  - Index page in Z-pattern, individual's pages in F-pattern
