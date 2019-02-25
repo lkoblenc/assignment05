@@ -6,24 +6,27 @@
 	<meta charset="utf-8">
 	<title>Assignment 05 | Home Page</title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="stylesheet" type="text/css" href="css/navigation.css">
 </head>
 
 <body>
 
-<nav>
+<header class="banner">
+	<h1>Story of Three UR Seniors</h1>
+	<div class="sub-text">Two CS Minor and One Business Minor</div>
+	<nav>
 	<ul>
+		<li><a href="index.html">Home</a></li>
 		<li><a href="tom.html">Tom</a></li>
-		<li><a href="michael.html">Michael</a></li>
+		<li><a class = "current" href="michael.html">Michael</a></li>
 		<li><a href="chadia.html">Chadia</a></li>
 	</ul>
 </nav>
-
-<header>
-	<h1>Story of Three UR Seniors</h1>
-	<h2>Two CS Minor and One Business Minor</h2>
 </header>
 
-<section>
+<div class="container">
+	<article>
+<section class="pad">
 
 	<h2>Tom</h2>
 
@@ -47,7 +50,9 @@
 
 </section>
 
-<aside>
+</article>
+
+<aside class="pad">
 
 	<figure>
 		<img src="images/tom.jpg">
@@ -79,9 +84,14 @@
 		<li>Minor: Business</li>
 	</ul>
 
+</aside>
+
 	<footer>
 		Website Created by Team Atlantis | CSC 174 Assignment
 	</footer>
+
+</div>
+
 
 </body>
 </html>
