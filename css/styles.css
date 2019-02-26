@@ -80,6 +80,37 @@ header.banner{
     grid-gap: 20px;
 }
 
+.container1 {
+    margin: 0 auto;
+    width: 80%; 
+    max-width: 960px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.container1 aside{
+    grid-column: 1/4;
+    grid-row: 1/2;
+    justify-content: center;
+}
+
+.container1 section.tom {
+    grid-column: 1/2;
+}
+
+.container1 section.michael {
+    grid-column: 2/3;
+}
+
+.container1 .chadia {
+    grid-column: 3/4;
+}
+
+.foot {
+    grid-column: 1/4;
+}
+
 article {
     grid-column: 1/2;
 }
@@ -89,12 +120,21 @@ article {
     margin-top: 100px;
 }
 
+.hpad {
+    margin-top: 60px;
+}
+
 aside {
     grid-column: 2/3;
 }
 
 section, aside {
     background: rgba(76, 175, 80, 0.3);
+}
+
+section p{ 
+    padding-left: 10px; 
+    margin-top: -10px;
 }
 /*  ************
     theme
@@ -106,9 +146,27 @@ body.csback {
 
 }
 
+body.csback .banner{
+    background-color: rgb(8,78,125);
+
+}
+
+
 body.busback {
     background: url("businessbackground.jpg") no-repeat fixed center;
     background-size: cover;
 
 }
 
+body.busback section, body.busback aside{
+    background: rgb(188,223,235, 0.8);
+}
+
+body.busback .banner{
+    background-color: rgb(54,69,79);
+
+}
+
+body.home {
+    background-color: rgb(217,225,229);
+}
