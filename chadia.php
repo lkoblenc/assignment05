@@ -15,14 +15,9 @@
 <header class="banner">
 	<h1>Chadia</h1>
 	<div class="sub-text">Business Minor</div>
-	<nav>
-	<ul>
-		<li><a href="index.html">Home</a></li>
-		<li><a href="tom.html">Tom</a></li>
-		<li><a class = "current" href="michael.html">Michael</a></li>
-		<li><a href="chadia.html">Chadia</a></li>
-	</ul>
-</nav>
+	
+	<?php include "inc/nav.inc"; ?>
+
 </header>
 
 <div class="container">
@@ -94,5 +89,8 @@
 	</footer>
 </div>
 
+<?php include "inc/scripts.inc"; ?>
+
 </body>
+
 </html>

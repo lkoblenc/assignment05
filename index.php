@@ -16,14 +16,9 @@
 <header class="banner">
 	<h1>Story of Three UR Seniors</h1>
 	<div class="sub-text">Two CS Minor and One Business Minor</div>
-	<nav>
-	<ul>
-		<li><a href="index.html">Home</a></li>
-		<li><a href="tom.html">Tom</a></li>
-		<li><a class = "current" href="michael.html">Michael</a></li>
-		<li><a href="chadia.html">Chadia</a></li>
-	</ul>
-</nav>
+	
+    <?php include "inc/nav.inc"; ?>
+
 </header>
 
 <div class="container1">
@@ -72,10 +67,8 @@
 
 </div>
 
- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-<script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-<script src="js/menu-highlighter.js"></script>
-		
+<?php include "inc/scripts.inc"; ?>
+
 
 <script src="sss/sss.js"></script>
 
