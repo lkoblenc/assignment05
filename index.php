@@ -7,6 +7,8 @@
 	<title>Assignment 05 | Home Page</title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 	<link rel="stylesheet" type="text/css" href="css/navigation.css">
+	<link href="https://fonts.googleapis.com/css?family=Chonburi|Open+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Spectral:300,400,800" rel="stylesheet">
 	<link rel="stylesheet" href="sss/sss.css">
 	<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
 </head>
@@ -22,6 +24,9 @@
 </header>
 
 <div class="container1">
+
+<div class="readmore zpad">Read More &dArr;</div>
+
 <section class="tom">
 
 	<h2>Tom</h2>

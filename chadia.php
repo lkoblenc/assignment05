@@ -7,6 +7,7 @@
 	<title>Assignment 05|Chadia</title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 	<link rel="stylesheet" type="text/css" href="css/navigation.css">
+	<link href="https://fonts.googleapis.com/css?family=Chonburi|Open+Sans" rel="stylesheet">
 </head>
 
 <body class="busback">
