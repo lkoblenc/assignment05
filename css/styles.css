@@ -111,9 +111,15 @@ header.banner{
     grid-column: 3/4;
 }
 
-.foot {
+footer {
+    grid-column: 1/3;
+    text-align: center;
+}
+
+footer.foot {
     grid-column: 1/4;
 }
+
 
 
 .container1 .readmore {
