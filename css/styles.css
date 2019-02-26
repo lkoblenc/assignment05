@@ -76,8 +76,13 @@ header.banner{
     width: 80%; 
     max-width: 960px;
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 1fr 2fr;
     grid-gap: 20px;
+}
+
+.containerz {
+    margin: 0 auto;
+    width: 75%; 
 }
 
 .container1 {
@@ -90,9 +95,8 @@ header.banner{
 }
 
 .container1 aside{
-    grid-column: 1/3;
+    grid-column: 1/4;
     grid-row: 1/2;
-    justify-content: center;
 }
 
 .container1 section.tom {
@@ -111,12 +115,10 @@ header.banner{
     grid-column: 1/4;
 }
 
-article {
-    grid-column: 1/2;
-}
 
-.container .readmore {
+.container1 .readmore {
     grid-column: 3/4;
+    text-align: right;
 }
 
 
@@ -134,8 +136,14 @@ article {
 }
 
 aside {
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+
+article {
     grid-column: 2/3;
 }
+
 
 h3{
     text-align: center;

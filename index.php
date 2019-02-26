@@ -51,7 +51,7 @@
 
 </section>
 
-<aside class="pad">
+<aside class="pad containerz">
 
 	<div class="slider">
 		<img src="images/seniors.jpeg" alt="URseniors">
