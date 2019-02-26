@@ -164,7 +164,7 @@ p {
     ************** */
 
 body.csback {
-    background: url("csbackground.jpg") no-repeat fixed center;
+    background: url("../images/csbackground.jpg") no-repeat fixed center;
     color: white;
 
 }
@@ -176,7 +176,7 @@ body.csback .banner{
 
 
 body.busback {
-    background: url("businessbackground.jpg") no-repeat fixed center;
+    background: url("../images/businessbackground.jpg") no-repeat fixed center;
     background-size: cover;
 
 }
