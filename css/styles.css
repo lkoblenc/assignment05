@@ -27,12 +27,13 @@ header.banner{
     position: fixed;
     top: 0;
     background-color: #0B090A;
-    width: 98%;
+    background-size: span;
+    width: 100%;
     z-index: 80;
     height: 10%;
-    padding: 10px;
+    padding: 5px;
     margin: 0;
-    
+    padding-left: 0;
 }
 
 .sub-text{
@@ -42,7 +43,7 @@ header.banner{
     letter-spacing: 1.9px;
     margin: 0;
     position: fixed;
-    left: 75px;
+    left: 15px;
     top: 45px;
     z-index: 110;
     border-top: 1px solid white;
@@ -64,7 +65,7 @@ header.banner{
     font-weight: 400;
     letter-spacing: 5px;
     z-index: 110;
-    padding-left: 65px;
+    left: 15px;
     margin-top: 0;
     overflow: hidden;
     vertical-align: top;
@@ -76,6 +77,7 @@ header.banner{
     max-width: 960px;
     display: grid;
     grid-template-columns: 2fr 1fr;
+    grid-gap: 20px;
 }
 
 article {
@@ -91,7 +93,9 @@ aside {
     grid-column: 2/3;
 }
 
-
+section, aside {
+    background: rgba(76, 175, 80, 0.3);
+}
 /*  ************
     theme
     ************** */
@@ -104,7 +108,7 @@ body.csback {
 
 body.busback {
     background: url("businessbackground.jpg") no-repeat fixed center;
-    color: white;
     background-size: cover;
 
 }
+
