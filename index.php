@@ -54,12 +54,12 @@
 <aside class="pad">
 
 	<div class="slider">
-		<img src="images/tom.jpg" alt="tom">
+		<img src="images/seniors.jpeg" alt="URseniors">
 		
-		<img src="images/michael.jpeg" alt="michael">
+		<img src="images/rr.jpeg" alt="UR">
 		
 	
-		<img src="images/chadia.jpeg" alt="chadia">
+		<img src="images/lib.jpeg" alt="URlib">
 
     </div>
 
