@@ -208,10 +208,12 @@ article {
 
 .container1 a:link {
   text-decoration: underline;
+  color: black;
 }
 
 .container1 a:visited {
   text-decoration: none;
+  color: black;
 }
 
 
