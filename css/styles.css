@@ -32,7 +32,7 @@ h3 {
 }
 
 section, aside {
-    background: rgba(76, 175, 80, 0.3);
+    background: rgba(76, 175, 80, 0.5);
 }
 
 section p { 
@@ -223,6 +223,7 @@ article {
 
 body.csback {
     background: url("../images/csbackground.jpg") no-repeat fixed center;
+    background-size: cover;
     color: white;
 
 }
