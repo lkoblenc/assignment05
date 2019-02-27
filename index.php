@@ -24,7 +24,7 @@
 
 <div class="container1">
 
-<div class="readmore zpad">Read More &dArr;</div>
+<a href="#tom" class="readmore zpad" id="tom">Read More &dArr;</a>
 
 <section class="tom">
 

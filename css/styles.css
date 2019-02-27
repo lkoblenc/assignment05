@@ -196,7 +196,6 @@ article {
     font-size: 25pt;
 }
 
-
 /* ******************************
    State Styles
    ****************************** */
@@ -206,6 +205,15 @@ article {
     font-size: 102%;
     font-weight: bolder;
 }
+
+.container1 a:link {
+  text-decoration: underline;
+}
+
+.container1 a:visited {
+  text-decoration: none;
+}
+
 
 /* ******************************
    Theme Styles
