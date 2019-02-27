@@ -6,7 +6,6 @@
 	<meta charset="utf-8">
 	<title>Assignment 05 | Home Page</title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
-	<link rel="stylesheet" type="text/css" href="css/navigation.css">
 	<link href="https://fonts.googleapis.com/css?family=Chonburi|Open+Sans" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Spectral:300,400,800" rel="stylesheet">
 	<link rel="stylesheet" href="sss/sss.css">
