@@ -9,8 +9,6 @@ Leonard Koblence --- Coder
 
 Link to team website: http://csc174.org/assignment05/atlantis/ 
 
-​	*(not uploaded by Fri 22 because no passward for assignment ftp yet)
-
 ------
 
 ## Domain: Three UR Seniors (2 CS minor and 1 business minor)
@@ -21,19 +19,18 @@ Link to team website: http://csc174.org/assignment05/atlantis/
 - each person's picture is related to their hobbies
 - each person is a senior
 - each person attend U of R
-- each person has a section about their academics
-- each person has a section about their jobs
-- each person has a section about their hobbies
+- each person has an identity name according to their hobbies
 - each person has both a major and a minor
 
 #### Taxonomy
 
  - people in reversed alphabetical order (Z-A)
- - Academics 
- - Jobs
- - Hobbies
+ - Introduction
+ - A picture related to hobby
+ - breifing of other students
 
 #### Choreogrphy
 
- - Index page with an introduction to each person and an aside that shows everyone's picture and major/minor summary
+ - Index page with a simple introduction to each person
+ - Individual page with everyone's picture and major/minor summary
  - Index page in Z-pattern, individual's pages in F-pattern
